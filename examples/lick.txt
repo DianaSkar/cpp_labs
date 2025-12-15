@@ -9,7 +9,7 @@
 bpm 120
 
 instrument sax sampler
-    sample=../samples/sax.wav
+    sample=./samples/sax.wav
     root=C5
     loop=8893,9229
     attack=0.001
